@@ -1,0 +1,12 @@
+student_id,name,class,email,mobile_number,marks_obtained
+1,Joel siby,A,joelsiby@gmail.com,1234567890,85
+2,arjun,B,arjun2@gmail.com,2345678901,75
+3,ABC,00,C,sera@gmail.com,ABC,ABC
+4,archit,D,student14@example.com,6548954367,10
+11,Lami,J,student12@example.com,9876WXYZ,77
+12,Karuna,I,student11@example.com,12345ABCDE,130
+5,Mike Johnson,G,invalid_mail,7890123456,92
+6,Lisa Brown,F,lisa.brown@example.com,6789012345,88
+9,00,H,sarah@example.com,8901234567,79
+7,Lisa kudraw,F,lisakudraw@example.com,6789012345,88
+9,Sarah Taylor,H,sarah.taylor@example.com,8978369082,79
